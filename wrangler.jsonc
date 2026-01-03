@@ -2,7 +2,6 @@
   "name": "payroll-management-system",
   "compatibility_date": "2026-01-03",
   "assets": {
-    "directory": "./public",
-    "binding": "ASSETS"
+    "directory": "./public"
   }
 }
